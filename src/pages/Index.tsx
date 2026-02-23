@@ -123,7 +123,7 @@ export default function Index() {
           <p className="text-black/60 mb-10 max-w-xl mx-auto">Расскажите о своей ситуации — я объясню, что можно сделать и сколько это стоит. Без давления и обязательств.</p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://t.me/"
+              href="https://t.me/tugushevartem"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 bg-black text-white px-8 py-4 text-sm font-medium hover:bg-neutral-800 transition-colors"

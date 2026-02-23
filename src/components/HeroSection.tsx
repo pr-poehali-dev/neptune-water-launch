@@ -3,10 +3,10 @@ import { cn } from '@/lib/utils';
 import Icon from '@/components/ui/icon';
 
 const images = [
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-2.jpg',
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-1.jpg',
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-4.jpg',
-  'https://cdn.poehali.dev/templates/creative-portfolio-ru/gallery-5.jpg',
+  'https://cdn.poehali.dev/projects/1c7c4b05-abdc-4a13-a68b-dd72801c0bd0/files/c6b4d186-53a5-4290-8905-579babf71ab4.jpg',
+  'https://cdn.poehali.dev/projects/1c7c4b05-abdc-4a13-a68b-dd72801c0bd0/files/4f7de097-af93-43f0-aede-1d75cfd7bcaf.jpg',
+  'https://cdn.poehali.dev/projects/1c7c4b05-abdc-4a13-a68b-dd72801c0bd0/files/5e71bc5f-8eaf-4c9a-b6e6-ac86244a689e.jpg',
+  'https://cdn.poehali.dev/projects/1c7c4b05-abdc-4a13-a68b-dd72801c0bd0/files/d1bcdd05-2560-4b2b-9d0b-9965fad975a0.jpg',
 ];
 
 export default function HeroSection() {
@@ -55,7 +55,7 @@ export default function HeroSection() {
             >
               <div className="relative h-48 w-48 overflow-hidden rounded-full border-4 border-amber-400/80 shadow-2xl md:h-64 md:w-64">
                 <img
-                  src="https://cdn.poehali.dev/projects/1c7c4b05-abdc-4a13-a68b-dd72801c0bd0/files/955daae4-0ea8-4f76-a432-63b14d78157c.jpg"
+                  src="https://cdn.poehali.dev/projects/1c7c4b05-abdc-4a13-a68b-dd72801c0bd0/bucket/6f4f634e-1f70-4929-9617-5cbc4690b2ac.jpg"
                   alt="Юрист"
                   className="h-full w-full object-cover"
                 />
@@ -83,7 +83,7 @@ export default function HeroSection() {
                 </p>
                 <div className="flex flex-wrap gap-4 pt-4">
                   <a
-                    href="https://t.me/"
+                    href="https://t.me/tugushevartem"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 rounded-none border border-amber-400 bg-amber-400 px-6 py-3 text-sm font-medium text-black transition-all hover:bg-amber-300"
