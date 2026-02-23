@@ -132,7 +132,7 @@ export default function Index() {
               Написать в Telegram
             </a>
             <a
-              href="tel:+7"
+              href="tel:+79605466161"
               className="flex items-center gap-2 border-2 border-black text-black px-8 py-4 text-sm font-medium hover:bg-black hover:text-white transition-colors"
             >
               <Icon name="Phone" size={18} />
@@ -145,7 +145,7 @@ export default function Index() {
       {/* Footer */}
       <footer className="py-8 px-8 md:px-16 border-t border-white/10">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-white/30 text-sm">© 2026 Александр Петров. Юридические услуги.</p>
+          <p className="text-white/30 text-sm">© 2026 Тугушев Артём. Юридические услуги.</p>
           <p className="text-white/20 text-xs">Информация на сайте не является публичной офертой</p>
         </div>
       </footer>

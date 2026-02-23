@@ -73,7 +73,7 @@ export default function HeroSection() {
                   Юридические услуги
                 </p>
                 <p className="text-3xl font-light text-white md:text-4xl lg:text-5xl">
-                  Александр Петров
+                  Тугушев Артём
                 </p>
                 <p className="text-xl font-light text-white/80 md:text-2xl">
                   Защита прав перед кредиторами
@@ -92,7 +92,7 @@ export default function HeroSection() {
                     Написать в Telegram
                   </a>
                   <a
-                    href="tel:+7"
+                    href="tel:+79605466161"
                     className="flex items-center gap-2 rounded-none border border-white/30 px-6 py-3 text-sm font-medium text-white transition-all hover:border-white hover:text-white"
                   >
                     <Icon name="Phone" size={16} />
