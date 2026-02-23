@@ -1,4 +1,5 @@
 import HeroSection from '@/components/HeroSection';
+import ApplicationForm from '@/components/ApplicationForm';
 import Icon from '@/components/ui/icon';
 
 const services = [
@@ -115,6 +116,8 @@ export default function Index() {
           </div>
         </div>
       </section>
+
+      <ApplicationForm />
 
       {/* CTA */}
       <section className="py-24 px-8 md:px-16 bg-amber-400">
