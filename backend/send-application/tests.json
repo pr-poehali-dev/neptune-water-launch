@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "name": "Send application to Telegram",
+      "method": "POST",
+      "path": "/",
+      "body": {
+        "name": "Иванов Иван Иванович",
+        "phone": "+7 999 000 00 00",
+        "city": "Москва",
+        "debt": "up_1m",
+        "property": "yes"
+      },
+      "expectedStatus": 200,
+      "expectedBody": {"ok": true},
+      "bodyMatcher": "partial"
+    }
+  ]
+}
